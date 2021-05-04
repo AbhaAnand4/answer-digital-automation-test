@@ -23,4 +23,4 @@ To run this project:
 > Go to src/test/java/com/demo/automation/testrunner/TestRunner.java and run as JunitTest
 ```
 
-NOTE: Ubuntu machine is used for development
+NOTE: Ubuntu machine is used for development. Please replace the drivers based on OS.
